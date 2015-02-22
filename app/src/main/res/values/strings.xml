@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">dailyPict</string>
+    <string name="largeViewActivityName">Large View</string>
+    <string name="preview_image">Preview image</string>
+    <string name="action_photo">Take a photo</string>
+    <string name="alarm_title">Daily Selfie</string>
+    <string name="alarm_ticker">Daily Selfie</string>
+    <string name="alarm_content">Time for another selfie</string>
+    
+</resources>
